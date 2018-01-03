@@ -1,12 +1,6 @@
-# revision 31018
-# category Package
-# catalog-ctan /macros/latex/contrib/thalie
-# catalog-date 2013-06-19 11:30:49 +0200
-# catalog-license lppl1.3
-# catalog-version 0.5
 Name:		texlive-thalie
-Version:	0.5
-Release:	9
+Version:	0.9b
+Release:	1
 Summary:	Typeset drama plays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thalie
@@ -35,12 +29,10 @@ the dramatis personae automatically.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/thalie/thalie.sty
-%doc %{_texmfdistdir}/doc/latex/thalie/README
-%doc %{_texmfdistdir}/doc/latex/thalie/thalie.pdf
+%{_texmfdistdir}/tex/latex/thalie
+%doc %{_texmfdistdir}/doc/latex/thalie
 #- source
-%doc %{_texmfdistdir}/source/latex/thalie/thalie.dtx
-%doc %{_texmfdistdir}/source/latex/thalie/thalie.ins
+%doc %{_texmfdistdir}/source/latex/thalie
 
 #-----------------------------------------------------------------------
 %prep
