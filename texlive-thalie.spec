@@ -1,6 +1,6 @@
 Name:		texlive-thalie
 Version:	64664
-Release:	1
+Release:	2
 Summary:	Typeset drama plays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thalie
