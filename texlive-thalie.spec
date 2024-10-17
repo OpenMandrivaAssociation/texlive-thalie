@@ -3,7 +3,7 @@ Version:	64664
 Release:	2
 Summary:	Typeset drama plays
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thalie
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thalie
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thalie.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thalie.doc.r%{version}.tar.xz
